@@ -1159,11 +1159,11 @@ label {
 	right: 0;
 }
 .contact-area .contact-right .border-title-2 h1 {
-	left: 60px;
+	left: 30px;
 	top: -55px;
 }
 .contact-right {
-	margin-left: 50px;
+	margin-left: 10px;
 }
 .contact-right .about-title h2 {
 	margin-bottom: 38px;
@@ -1287,7 +1287,7 @@ label {
 	border: 0;
 }
 .contact-info {
-	margin-left: 40px;
+	margin-left: 20px;
 }
 .contact.right-info .c-right-icon span {
 	float: left;
@@ -1302,6 +1302,7 @@ label {
 }
 .contact.right-info .c-right-text {
 	overflow: hidden;
+	width: max-content;
 }
 .contact.right-info .c-right-text p {
 	margin-bottom: 0;
@@ -2254,7 +2255,7 @@ label {
 	margin-right: 8px;
 }
 .footer-2 .footer-widget.footer-widget-space {
-	margin-right: 40px;
+	margin-right: 20px;
 }
 .footer-2 .footer-widget .footer-social a:hover {
 	background-color: #001b46;
